@@ -86,7 +86,7 @@
     ],
     "Village 2": [
       {
-        "name": "",
+        "name": "WW 1",
         "times": 1,
         "res": {
           "wood": 0,
@@ -119,7 +119,7 @@
   },
   "allyEnabled": {
     "Village 1": false,
-    "Village 2": false
+    "Village 2": true
   },
   "armyProduction": {
     "Village 3": {
