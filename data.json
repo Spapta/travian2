@@ -129,9 +129,9 @@
       "crop": 2500
     },
     "Village 4": {
-      "wood": 0,
-      "clay": 0,
-      "metal": 0,
+      "wood": 2000,
+      "clay": 2500,
+      "metal": 2000,
       "crop": 0
     }
   }
