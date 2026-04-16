@@ -3,10 +3,26 @@
     "Village 1",
     "Village 2"
   ],
-  "av": [],
+  "av": [
+    "Village 3"
+  ],
   "routes": {
-    "Village 1": {},
-    "Village 2": {}
+    "Village 1": {
+      "Village 3": {
+        "wood": 0,
+        "clay": 0,
+        "metal": 0,
+        "crop": 0
+      }
+    },
+    "Village 2": {
+      "Village 3": {
+        "wood": 0,
+        "clay": 0,
+        "metal": 0,
+        "crop": 0
+      }
+    }
   },
   "production": {
     "Village 1": {
@@ -92,5 +108,12 @@
     "Village 1": false,
     "Village 2": false
   },
-  "armyProduction": {}
+  "armyProduction": {
+    "Village 3": {
+      "wood": 0,
+      "clay": 0,
+      "metal": 0,
+      "crop": 0
+    }
+  }
 }
