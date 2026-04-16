@@ -125,8 +125,8 @@
     "Village 3": {
       "wood": 1500,
       "clay": 1500,
-      "metal": 200,
-      "crop": 0
+      "metal": 2000,
+      "crop": 2500
     },
     "Village 4": {
       "wood": 0,
