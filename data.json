@@ -123,9 +123,9 @@
   },
   "armyProduction": {
     "Village 3": {
-      "wood": 0,
-      "clay": 0,
-      "metal": 0,
+      "wood": 1500,
+      "clay": 1500,
+      "metal": 200,
       "crop": 0
     },
     "Village 4": {
