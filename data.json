@@ -10,10 +10,10 @@
   "routes": {
     "Village 1": {
       "Village 3": {
-        "wood": 5500,
-        "clay": 0,
-        "metal": 0,
-        "crop": 0
+        "wood": 550,
+        "clay": 550,
+        "metal": 500,
+        "crop": 500
       },
       "Village 4": {
         "wood": 0,
