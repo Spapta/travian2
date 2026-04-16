@@ -46,9 +46,9 @@
     },
     "Village 2": {
       "wood": 2000,
-      "clay": 0,
-      "metal": 0,
-      "crop": 0
+      "clay": 3000,
+      "metal": 2000,
+      "crop": 1000
     }
   },
   "ally": {
