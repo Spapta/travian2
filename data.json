@@ -1,0 +1,55 @@
+{
+  "rv": [
+    "Village 1"
+  ],
+  "av": [],
+  "routes": {
+    "Village 1": {}
+  },
+  "production": {
+    "Village 1": {
+      "wood": 0,
+      "clay": 0,
+      "metal": 0,
+      "crop": 0
+    }
+  },
+  "ally": {
+    "Village 1": [
+      {
+        "name": "",
+        "times": 1,
+        "res": {
+          "wood": 0,
+          "clay": 0,
+          "metal": 0,
+          "crop": 0
+        }
+      },
+      {
+        "name": "",
+        "times": 1,
+        "res": {
+          "wood": 0,
+          "clay": 0,
+          "metal": 0,
+          "crop": 0
+        }
+      },
+      {
+        "name": "",
+        "times": 1,
+        "res": {
+          "wood": 0,
+          "clay": 0,
+          "metal": 0,
+          "crop": 0
+        }
+      }
+    ]
+  },
+  "allyEnabled": {
+    "Village 1": false
+  },
+  "armyProduction": {}
+}
