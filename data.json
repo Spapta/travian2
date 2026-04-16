@@ -90,9 +90,9 @@
         "times": 24,
         "res": {
           "wood": 1000,
-          "clay": 0,
-          "metal": 0,
-          "crop": 0
+          "clay": 1000,
+          "metal": 1000,
+          "crop": 1000
         }
       },
       {
