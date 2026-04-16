@@ -4,7 +4,8 @@
     "Village 2"
   ],
   "av": [
-    "Village 3"
+    "Village 3",
+    "Village 4"
   ],
   "routes": {
     "Village 1": {
@@ -13,10 +14,22 @@
         "clay": 0,
         "metal": 0,
         "crop": 0
+      },
+      "Village 4": {
+        "wood": 0,
+        "clay": 0,
+        "metal": 0,
+        "crop": 0
       }
     },
     "Village 2": {
       "Village 3": {
+        "wood": 0,
+        "clay": 0,
+        "metal": 0,
+        "crop": 0
+      },
+      "Village 4": {
         "wood": 0,
         "clay": 0,
         "metal": 0,
@@ -110,6 +123,12 @@
   },
   "armyProduction": {
     "Village 3": {
+      "wood": 0,
+      "clay": 0,
+      "metal": 0,
+      "crop": 0
+    },
+    "Village 4": {
       "wood": 0,
       "clay": 0,
       "metal": 0,
